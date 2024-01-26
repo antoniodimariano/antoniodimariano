@@ -16,7 +16,7 @@ Sr. Software Engineer deeply interested in modern software engineering design an
 
 **What I like to do:**
 
-- Designed and Developed loosely coupled distributed backend applications using event streaming platforms.
+- Design and Develop loosely coupled distributed backend applications using event streaming platforms.
 
 - Follow the best practices regarding code quality, testing, and code reviews.
 
